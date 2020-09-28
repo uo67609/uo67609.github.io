@@ -1,5 +1,5 @@
 body {
-      font: 400 15px Tahoma, sans-serif; /*Familia sans-serif*/
+      font: 400 15px "Times New Roman", serif; /*Familia sans-serif*/
       line-height: 1.8;
       color: #818181
   }
@@ -9,6 +9,11 @@ h1 {
       text-transform: uppercase;
       padding: 100px 25px;
       text-align: center;     
+  }
+  h2 {
+    font: 400 15px "Times New Roman", serif; /*Familia sans-serif*/
+    line-height: 1.8;
+    color: #818181;
   }
 
 
