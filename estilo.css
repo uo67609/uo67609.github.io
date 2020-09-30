@@ -25,7 +25,8 @@ td, tr, th{
   border: 2px solid black;
 }
 #sectionPremios{ 
-  display: flexbox;
-  background-position: 70% 70%;
+  display: flex;
+  background-position: rigth center;
   background-color: yellow;
+  
 }
