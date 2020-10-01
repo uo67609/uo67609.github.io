@@ -1,6 +1,4 @@
-body {    
-  float: left;  
-  width: 30% 70%;
+body {     
   font: 400 15px "Times New Roman", serif; /*Familia sans-serif*/
   line-height: 1.8;
   color: #818181
@@ -26,8 +24,19 @@ border: 4px solid black;
 td, tr, th{
 border: 2px solid black;
 }
-#sectionPremios{
-  
+#protagonistas{
+       float: left;
+       width: 70%;
        color: black;
        background-color: cadetblue;
+}
+
+#premios{
+    float: rigth;
+    width: 30%;
+}
+
+#sinopsis{
+      display:block;
+      width: 50%;
 }
