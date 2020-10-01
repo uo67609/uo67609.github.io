@@ -1,6 +1,6 @@
 body {    
   float: left;  
-  width: 30%;
+  width: 30% 70%;
   font: 400 15px "Times New Roman", serif; /*Familia sans-serif*/
   line-height: 1.8;
   color: #818181
@@ -27,6 +27,7 @@ td, tr, th{
 border: 2px solid black;
 }
 #sectionPremios{
+  
        color: black;
        background-color: cadetblue;
 }
