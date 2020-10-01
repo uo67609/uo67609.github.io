@@ -28,16 +28,13 @@ td, tr, th{
 
 }
 #protagonistas{
-      flex-grow: 1;
-       display:block;
+      flex-grow: 1;       
        color: black;
        background-color: cadetblue;
 }
 
 #premios{
-    flex-grow: 4;    
-    display: block;
-    
+    flex-grow: 4;  
 }
 
 #sinopsis{
