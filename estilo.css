@@ -28,12 +28,13 @@ td, tr, th{
 
 }
 #protagonistas{  
-       
+       float:left;
        color: black;
        background-color: cadetblue;
 }
 
 #premios{
+    float: right;
     display:block;
      color:black;
 }
@@ -43,7 +44,7 @@ td, tr, th{
       
 }
 #cuerpo{
-  display: float;  
+  display: block;  
   width: 50%;
     
 }
