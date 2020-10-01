@@ -43,7 +43,6 @@ td, tr, th{
       
 }
 #cuerpo{
-  display: table;
-  table-layout: auto;
-  flex-wrap: nowrap; 
+  display: table;  
+  table-layout: auto;  
 }
