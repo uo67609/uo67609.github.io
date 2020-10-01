@@ -1,4 +1,6 @@
 body {     
+  display: flex;
+  flex-wrap: nowrap;
   font: 400 15px "Times New Roman", serif; /*Familia sans-serif*/
   line-height: 1.8;
   color: #818181
@@ -25,14 +27,14 @@ td, tr, th{
 border: 2px solid black;
 }
 #protagonistas{
-       float: left;
-       width: 30%;
+       display:block;
        color: black;
        background-color: cadetblue;
 }
 
 #premios{
-    float: rigth;
+    
+    display: block;
     width: 30%;
 }
 
@@ -41,5 +43,5 @@ border: 2px solid black;
       width: 50%;
 }
 section{
-  display: float;
+  display: block;
 }
