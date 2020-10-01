@@ -27,14 +27,15 @@ td, tr, th{
     border-collapse: collapse;
 
 }
-#protagonistas{
-      flex-grow: 1;       
+#protagonistas{  
+      display:block;            
        color: black;
        background-color: cadetblue;
 }
 
 #premios{
-    flex-grow: 4;  
+    display:block;
+     color:black;
 }
 
 #sinopsis{
