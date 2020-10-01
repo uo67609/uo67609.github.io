@@ -1,5 +1,6 @@
 body {    
-  float: left 30%;  
+  float: left;  
+  width: 30%;
   font: 400 15px "Times New Roman", serif; /*Familia sans-serif*/
   line-height: 1.8;
   color: #818181
