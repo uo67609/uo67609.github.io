@@ -28,7 +28,7 @@ td, tr, th{
 
 }
 #protagonistas{  
-      display:block;            
+       
        color: black;
        background-color: cadetblue;
 }
@@ -43,6 +43,7 @@ td, tr, th{
       
 }
 #cuerpo{
-  display: flex;
+  display: table;
+  table-layout: auto;
   flex-wrap: nowrap; 
 }
