@@ -33,15 +33,14 @@ border: 2px solid black;
 #premios{
     
     display: block;
-    width: 30%;
+    
 }
 
 #sinopsis{
       display:block;
-      width: 50%;
+      
 }
 #cuerpo{
   display: flex;
-  flex-wrap: nowrap;
-  display: block;
+  flex-wrap: nowrap; 
 }
