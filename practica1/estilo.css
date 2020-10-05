@@ -33,6 +33,7 @@ td, tr, th{
 
 /*(0,0,1)*/
 nav{
+  font: 18px;
   display: block;
   background-color: grey;
   color: #FF5733;
