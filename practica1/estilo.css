@@ -30,29 +30,7 @@ td, tr, th{
     border-collapse: collapse;
 
 }
-/*(1,0,0)*/
-#protagonistas{  
-       float:left;
-       color: black;
-       background-color: cadetblue;
-}
-/*(1,0,0)*/
-#premios{
-    float: right;
-    display:block;
-     color:black;
-}
-/*(1,0,0)*/
-#sinopsis{
-      display:block;
-      
-}
-/*(1,0,0)*/
-#cuerpo{
-  display: block;  
-  width: 50%;
-    
-}
+
 /*(0,0,1)*/
 nav{
   display: block;
