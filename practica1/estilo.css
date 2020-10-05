@@ -53,18 +53,18 @@ td, tr, th{
   width: 50%;
     
 }
-
+/*(1,0,0)*/
 #menu-navegacion{
   display: block;
   background-color: grey;
   color: #FF5733;
 }
-
+/*(1,0,1)*/
 #menu-navegacion a{
   color: black;
   background-color: grey;
 }
-
+/*(1,1,1)*/
 #menu-navegacion a:hover{
   background-color: #FF5733;
   color:white;
