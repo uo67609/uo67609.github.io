@@ -32,14 +32,14 @@ td, tr, th{
 }
 
 /*(0,0,2)*/
-h1 + nav{
-  font: 400 20px "Times New Roman", serif;
+h1 + nav{  
   display: block;
   background-color: grey;
   color: #FF5733;
 }
 /*(0,0,2)*/
 nav a{
+  font: 400 20px "Times New Roman", serif;
   color: black;
   text-decoration: none;
   background-color: grey;
