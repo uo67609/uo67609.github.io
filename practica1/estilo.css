@@ -1,6 +1,6 @@
 /*(0,0,1)*/
 body {       
-  font: 400 15px "Times New Roman", serif; /*Familia sans-serif*/
+  font: 400 15px "Times New Roman", serif; /*Familia serif*/
   line-height: 1.8;
   color: #818181
 }
@@ -14,7 +14,7 @@ h1 {
 }
 /*(0,0,1)*/
 h2 {
-  font: 400 22px "Times New Roman", serif; /*Familia sans-serif*/
+  font: 400 22px "Times New Roman", serif; /*Familia serif*/
   line-height: 1.8;
   color: #818181;
 }
@@ -33,7 +33,7 @@ td, tr, th{
 
 /*(0,0,2)*/
 h1 + nav{
-  font: 18px;
+  font: 400 20px "Times New Roman", serif;
   display: block;
   background-color: grey;
   color: #FF5733;
