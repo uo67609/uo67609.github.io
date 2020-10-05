@@ -43,6 +43,7 @@ nav a{
   color: black;
   text-decoration: none;
   background-color: grey;
+  padding: 3px;
 }
 /*(0,1,2)*/
 nav a:hover{
