@@ -1,8 +1,10 @@
+/*(0,0,1)*/
 body {       
   font: 400 15px "Times New Roman", serif; /*Familia sans-serif*/
   line-height: 1.8;
   color: #818181
 }
+/*(0,0,1)*/
 h1 {
   background-color:#FF5733; 
   color: #fff;
@@ -10,39 +12,42 @@ h1 {
   padding: 100px 25px;
   text-align: center;     
 }
+/*(0,0,1)*/
 h2 {
   font: 400 22px "Times New Roman", serif; /*Familia sans-serif*/
   line-height: 1.8;
   color: #818181;
 }
-
+/*(0,0,1)*/
 table {
     border: 4px solid black;
     border-collapse: collapse;
 }
 
-
+/*(0,0,1)*/
 td, tr, th{
     border: 2px solid black;
     border-collapse: collapse;
 
 }
+/*(1,0,0)*/
 #protagonistas{  
        float:left;
        color: black;
        background-color: cadetblue;
 }
-
+/*(1,0,0)*/
 #premios{
     float: right;
     display:block;
      color:black;
 }
-
+/*(1,0,0)*/
 #sinopsis{
       display:block;
       
 }
+/*(1,0,0)*/
 #cuerpo{
   display: block;  
   width: 50%;
