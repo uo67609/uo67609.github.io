@@ -31,8 +31,8 @@ td, tr, th{
 
 }
 
-/*(0,0,1)*/
-nav{
+/*(0,0,2)*/
+h1 + nav{
   font: 18px;
   display: block;
   background-color: grey;
