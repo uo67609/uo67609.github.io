@@ -50,3 +50,8 @@ nav a:hover{
   background-color: #FF5733;
   color:white;
 }
+
+img{
+  max-width: 1023px;
+  width: 1023px  ;
+}
