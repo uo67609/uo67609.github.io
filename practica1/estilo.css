@@ -2,7 +2,8 @@
 body {       
   font: 400 medium "Times New Roman", serif; /*Familia serif*/
   line-height: 1.8;
-  color: #818181
+  color: #818181;
+  
 }
 /*(0,0,1)*/
 h1 {
@@ -56,4 +57,8 @@ img{
   width: 100% ;
   padding: 0px;
   border: 0px;  
+}
+section{
+  float: left;
+  width: 33.33%;
 }
