@@ -52,13 +52,14 @@ nav a:hover{
   background-color: #FF5733;
   color:white;
 }
-
+/*(0,0,1)*/
 img{
   max-width: 100%;
   width: 100% ;
   padding: 0px;
   border: 0px;  
 }
+/*(0,0,1)*/
 section{
   float: left;
   width: 33.33%;
