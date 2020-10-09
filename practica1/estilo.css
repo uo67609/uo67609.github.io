@@ -3,6 +3,7 @@ body {
   font: 400 medium "Times New Roman", serif; /*Familia serif*/
   line-height: 1.8;
   color: #818181;
+  box-sizing: border-box;
   
 }
 /*(0,0,1)*/
