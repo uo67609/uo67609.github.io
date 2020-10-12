@@ -19,7 +19,8 @@ h1 {
 h2 {
   font: 400 large "Times New Roman", serif; /*Familia serif*/
   line-height: 1.8;
-  color: #818181;
+  color: black;
+  background-color: white;
 }
 /*(0,0,1)*/
 table {
