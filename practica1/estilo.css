@@ -66,3 +66,7 @@ section{
   float: left;
   width: 33.33%;
 }
+/*(0,0,1)*/
+video{
+  float:left;
+}
